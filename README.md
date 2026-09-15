@@ -1,4 +1,4 @@
-# AVR Project - Calculator & Game | پروژه AVR - ماشین حساب و بازی
+# AVR Project - Calculator & Game 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)](https://isocpp.org/)
@@ -6,7 +6,7 @@
 
 ---
 
-## English | انگلیسی
+## English 
 
 This project contains two programs for AVR microcontrollers:
 
